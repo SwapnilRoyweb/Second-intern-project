@@ -10,7 +10,7 @@ const Register = () => {
                 </div>
                 <div className="card flex-1 w-full max-w-sm shadow-2xl shadow-transparent hover:scale-110 duration-300 hover:shadow-black ">
                     <div className="card-body shadow-inner shadow-blue-700 rounded-3xl">
-                    <h1 className="text-5xl font-bold text-white rounded-3xl my-5">Register now!</h1>
+                    <h1 className="text-5xl font-bold text-white rounded-3xl my-5">Sign-up now!</h1>
                         <div className="form-control">
                             <label className="label">
                                 <span className="label-text text-white">Name</span>
